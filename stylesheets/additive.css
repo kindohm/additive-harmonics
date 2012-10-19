@@ -1,0 +1,50 @@
+canvas {
+	background: #ddddcc;
+}
+
+#main{
+	width: 800px;
+}
+
+#canvasPanel {
+	margin-top: 20px;
+}
+
+#controlsPanel {
+}
+
+.clear {
+	clear: both;
+}
+
+.label {
+	float: left;
+	margin-left: 5px;
+}
+.slider {
+	width: 160px;
+	margin: 5px;
+	margin-right: 10px;
+	float: right;
+}
+
+.sliderContainer {
+	width: 305px;
+	height: 27px;
+	margin: 1px;
+	background: rgba(198, 198, 184, 255);
+	padding: 5px;
+	display: inline-block;
+}
+
+#buttonPanel {
+	text-align: center;
+}
+
+#playButton {
+	width: 200px;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 100%;
+}
